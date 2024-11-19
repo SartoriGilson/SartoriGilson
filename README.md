@@ -2,7 +2,7 @@
 
 Welcome to my GitHub.
 
-# :link: [My LinkedIn](https://www.linkedin.com/in/gilson-mariani-sartori-622374160)
+## :link: [My LinkedIn](https://www.linkedin.com/in/gilson-mariani-sartori-622374160)
 
 <!--
 **SartoriGilson/SartoriGilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
