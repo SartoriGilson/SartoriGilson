@@ -2,8 +2,7 @@
 
 Welcome to my GitHub.
 
-My name is Felipe Fialho from Brazil (🇧🇷). I'm starting my career in the programming area and I have a portfolio for your analysis, these repositories are the results of the courses I've been constantly studying.
-
+My name is Gilson Mariani Sartori from Brazil (🇧🇷). I'm starting my career in the programming area and I have a portfolio for your analysis, these repositories are the results of the courses I've been constantly studying.
 
 In my free time I like a lot watch football (🏈) and F1 (🏎️), to watch movies (🎞️) and series (📺), to read books (📚) and listen to music (🎵)
 
