@@ -2,11 +2,11 @@
 
 Welcome to my GitHub.
 
-My name is Gilson Mariani Sartori from Brazil (🇧🇷). I'm starting my career in the programming area and I have a portfolio for your analysis, these repositories are the results of the courses I've been constantly studying. I'm studying to become a full stack professional but focused on backend.
+I am Gilson Mariani Sartori from Brazil(🇧🇷), after a long time in the metalworking industry, i decided to seek new challenges and i am starting my career in the programming area. As i work to become a Full Stack professional with a focus on Backend development, i built a portfolio presenting the skills and projects I developed through continuous learning and dedication the courses i am taking, as you can see through the following links in description. Feel free to explore an call me, which reflect a part of my progress and passion for technology.
 
-In my free time I like a lot watch football (🏈), F1 (🏎️) and Moto GP (🏍️), to watch movies (🎞️) and series (📺), to read books (📚) and listen to music (🎵).
+In my free time i like watch football (🏈), Formula 1 (🏎️) and play video-games (🎮), to watch movies (🎞️) and read books (📚).
 
-Would you like to find me?
+I am initially studying HTML, CSS, PHP, Python, JavaScript, among other languages. Let's talk?
 
 ## :link: [My LinkedIn](https://www.linkedin.com/in/gilson-mariani-sartori-622374160)
 
